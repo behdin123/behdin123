@@ -6,7 +6,7 @@
   ### <div align="center">My name is Behdin Bagheri, a full-stack developer and content creator 👨‍💻🚀</div>  
   
 
-- ⏳ I’m currently at 2. semester in Web Development at EASV  
+- ⏳ I’m currently at 2nd semester in Web Development at EASV  
   
 
 - ❓ Ask me about anything related to MEVN stack and related technologies  
